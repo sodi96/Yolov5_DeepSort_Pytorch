@@ -1,1 +1,5 @@
 .vscode/
+**/__pycache__/
+inference/
+yolov5l.pt
+yolov5s.pt
